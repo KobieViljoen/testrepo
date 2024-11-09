@@ -1,2 +1,2 @@
 #Display the output
-print("New pyrhon file")
+print("New python file")
